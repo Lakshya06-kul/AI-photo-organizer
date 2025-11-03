@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Organizer",
+  "description": "An intelligent web application that allows users to upload their photos and uses AI to automatically analyze and organize them into relevant folders based on their content.",
+  "requestFramePermissions": []
+}
